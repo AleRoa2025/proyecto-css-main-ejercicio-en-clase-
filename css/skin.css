@@ -1,0 +1,14 @@
+
+.destacada {
+    border: 2px solid #FFBD4D;
+    background: #FFF6DE;
+}
+
+.boton-amarillo {
+    background: #FFBD4D;
+    color: #333;
+    font-weight: bold;
+}
+.card:hover {
+    transform: translateY(-5px);
+}
